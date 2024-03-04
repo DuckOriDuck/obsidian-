@@ -10,5 +10,5 @@
 - # boolean
 
 # javascript equality
-![[프로젝트 관련 정보/imgs/Pasted image 20240112000158.png]]
-![[프로젝트 관련 정보/imgs/Pasted image 20240112000203.png]]
+![[Pasted image 20240112000158.png]]
+![[Pasted image 20240112000203.png]]

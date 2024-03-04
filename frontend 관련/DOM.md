@@ -2,7 +2,7 @@
 
 ## DOM이란?
 - HTML 문서의 내용을 트리 형태로 구조화하여 웹페이지와 프로그래밍 언어를 연결시켜주는 역할
-- ![[프로젝트 관련 정보/imgs/Pasted image 20240111133618.png]]![[프로젝트 관련 정보/imgs/Pasted image 20240111133625.png]]
+- ![[Pasted image 20240111133618.png]]![[Pasted image 20240111133625.png]]
 - 이런식으로 바뀌게 됨.
 ## DOM tree 접근방법
 - document 객체를 통해 HTML 문서에 접근 가능.
@@ -33,7 +33,7 @@ document.querySelectorAll("selector");
 </script>
 ```
 - 하위에 여러 개의 노드가 있는 태그에서 이렇게 썼을때 결과는
-- ![[프로젝트 관련 정보/imgs/Pasted image 20240111134321.png]]
+- ![[Pasted image 20240111134321.png]]
 - 이렇게 뜬다.
 
 | HTMLCollection | NodeList |
