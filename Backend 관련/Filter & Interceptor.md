@@ -197,7 +197,7 @@ public FilterRegistrationBean<Filter> filterTwo() {
 FilterRegistrationBean<Filter> filter = new FilterRegistrationBean<>();  
 filter.setFilter(new AddTraceIdFilter());  
 filter.setOrder(2);  //Filter 우선순위 설정
-filter.addUrlPatterns("/filter/*");  
+filter.addUrlPatterns("/filter/*");  //이 URL 패턴에 대해서 필터를 실행한다.
 return filter;  
 }  
 }
