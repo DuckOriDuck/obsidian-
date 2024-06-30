@@ -23,7 +23,7 @@
 - Excel, PDF ...문서로 출력
 - JSON같은 특정 형식의 데이터로 변환 및 출력
 # Controller
-서비스 처리를 담당하는 Model과 화면 표시하는 View를 컨트롤 하는 역할을 한다. @Controller
+서비스 처리를 담당하는 Model과 화면 표시하는 View를 컨트롤 하는 역할을 한다. [[DispatcherServlet]] ->@Controller
 사용자의 요청사항이나 데이터를 View에서 받고, 받은 데이터를 기준으로 Model에 내용을 전달한다.
 
 ![[Pasted image 20240315192240.png]]

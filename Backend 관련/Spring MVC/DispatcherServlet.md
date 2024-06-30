@@ -4,7 +4,7 @@
 - 서블릿 컨테이너는 DispatcherServlet을 포함한 모든 서블릿의 인스턴스를 생성하고 생명 주기를 관리한다. 스프링부트는 이를 위해 자동 구성 매커니즘을 제공하여 개발자가 서블릿 컨테이너를 쉽게 설정하고 사용할 수 있게 해줌. 
 - DispatcherServvlet은 서블릿 컨테이너 내에서 작동하며 스프링 MVC 애플리케이션의 중심점으로써 모든 웹 요청을 처리한다.
 ## DispatcherServlet의 flow
-![[Pasted image 20240315194718.png]]
+![[Pasted image 20240630000933.png]]
 
 1. HTTP 요청이 들어오면
 2. HandlerMapping을 통해  적합한 컨트롤러와 메소드를 찾는다.
