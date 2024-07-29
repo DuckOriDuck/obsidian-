@@ -1,0 +1,1 @@
+Web server이다. [[Web Server와 WAS(Web Application Server)]] 참고
